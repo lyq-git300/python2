@@ -1,6 +1,7 @@
 
 # 项目入口
 # helllo world
+# 项思琪是女海王
 
 from view import View
 from bank import Bank
